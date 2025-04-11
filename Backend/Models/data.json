@@ -1,0 +1,18 @@
+[
+    {
+        "username": "karunpusuluri@gmail.com",
+        "age": "23",
+        "gender": "male",
+        "email": "karunpusuluri@gmail.com",
+        "password": "123456",
+        "id": 1
+    },
+    {
+        "username": "karunpusuluri@gmail.com",
+        "age": "23",
+        "gender": "male",
+        "email": "karunpusuluri@gmail.com",
+        "password": "123456",
+        "id": 2
+    }
+]
